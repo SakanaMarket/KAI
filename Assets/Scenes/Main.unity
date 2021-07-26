@@ -918,7 +918,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'Creator: sakanamochii.itch.io | Art: 0x72.itch.io | Music: "Steamtown"
+  m_Text: 'Creator: sakanamochi.itch.io | Art: 0x72.itch.io | Music: "Steamtown"
     - soundtrackuniverse.com'
 --- !u!222 &215100512
 CanvasRenderer:
